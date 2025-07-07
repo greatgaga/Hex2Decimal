@@ -16,3 +16,7 @@ A command line tool made for conversion between decimal, hexadecimal and binary.
    ```bash
    git clone <your_repo_url>
    cd <your_repo_folder>
+
+4. **Install pyhton dependencies
+  ```bash
+   pip install pyopencl numpy
